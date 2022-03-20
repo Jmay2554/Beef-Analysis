@@ -1,0 +1,1 @@
+This repository contains information around a lab that performed an analysis on a potential bacteria found in belly buttons. Inside you will find an interactive website that will showcase our data.
